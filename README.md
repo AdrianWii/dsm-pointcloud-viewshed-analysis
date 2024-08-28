@@ -1,5 +1,8 @@
 # Generating Viewsheds Based on the Digital Surface Model (DSM) and Point Cloud
 
+[![DOI](https://zenodo.org/badge/848918519.svg)](https://zenodo.org/doi/10.5281/zenodo.13387373)
+
+
 ![Cover Image](cover.png)
 
 ## Authors
