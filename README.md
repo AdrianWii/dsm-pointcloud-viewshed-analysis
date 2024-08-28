@@ -31,7 +31,7 @@ Please ensure that you comply with these terms when using the data.
 
 ## Repository Structure
 
-- **/data**: Contains the DSM and point cloud data used in the article.
+- **/data**: Contains the DSM and point cloud data, coordinates for analyzed points used in the article.
 - **/results**: Output viewsheds and visualization results.
 
 ## Citation
