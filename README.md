@@ -1,5 +1,7 @@
 # Generating Viewsheds Based on the Digital Surface Model (DSM) and Point Cloud
 
+![Cover Image](cover.png)
+
 ## Authors
 
 - Jerzy Orlof
