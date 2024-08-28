@@ -39,7 +39,7 @@ Please ensure that you comply with these terms when using the data.
 If you use this data in your research, please cite the following article:
 
 ```bibtex
-@inprocedings{Smith2024Generating,
+@inprocedings{Orlof2024,
   title={Generating Viewsheds Based on the Digital Surface Model (DSM) and Point Cloud},
   author={Jerzy Orlof, Paweł Ozimek, Piotr Łabędź, Adrian Widłak, Agnieszka Ozimek},
   journal={PLOS ONE},
