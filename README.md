@@ -6,9 +6,11 @@
 - Paweł Ozimek
 - Piotr Łabędź
 - Adrian Widłak
+  
   **Faculty of Computer Science and Telecommunications**, Cracow University of Technology, Cracow, Poland
 
 - Agnieszka Ozimek
+  
   **Faculty of Architecture**, Cracow University of Technology, Cracow, Poland
 
 ## Overview
